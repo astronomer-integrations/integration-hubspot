@@ -1,5 +1,5 @@
 {
-  "name": "integration-hubspot",
+  "name": "@astronomerio/integration-hubspot",
   "version": "1.0.12",
   "private": true,
   "description": "HubSpot server-side integration",
