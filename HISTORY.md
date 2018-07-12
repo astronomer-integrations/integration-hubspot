@@ -1,4 +1,21 @@
 
+1.2.3 / 2017-04-17
+==================
+
+
+
+1.2.0 / 2017-01-31
+==================
+
+  * Standardize integration (linting, Docker configuration, circle.yml, upgrade
+segmentio-integration version, upgrade integration-worker version, etc.)
+
+
+1.1.0 / 2016-11-16
+===================
+
+  * Use create or update endpoint for `.identify()` calls to reduce requests made 
+
 1.0.12 / 2016-08-31
 ===================
 
